@@ -2,7 +2,7 @@
 /**
  * main - description start of code
  * Display upper and lower case letters
- * Return: 0 if successful
+ * Return: 0 when successful
  */
 
 int main(void)
