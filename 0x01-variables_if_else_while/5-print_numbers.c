@@ -2,7 +2,7 @@
 /**
  * main - function displays entry of code
  * Return: displays 0 when successful
- * Numbers
+ * Numbers base 10
  */
 int main(void)
 {
