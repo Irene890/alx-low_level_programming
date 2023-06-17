@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - function shows starting
- * point of code
+ * point of entry code
  * Return: funtion shows zero when successful
  */
 int main(void)
