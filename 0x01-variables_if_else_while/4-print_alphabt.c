@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
- * main function shows starting
+/**
+ * main - function shows starting
  * point of code
- * return funtion shows zero when successful
+ * Return: funtion shows zero when successful
  */
 int main(void)
 {

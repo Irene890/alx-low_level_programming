@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - starting code point */
-/* Description is to get the last digit */
-/* return 0 when successful */
-/* ld is the last digit */
+/**
+ * main - starting code point
+ * Description is to get the last digit
+ * Return: 0 when successful
+ * ld is the last digit
+ */
 int main(void)
 {
 	int n;

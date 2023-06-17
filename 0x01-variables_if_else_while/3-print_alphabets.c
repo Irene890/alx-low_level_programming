@@ -1,8 +1,8 @@
 #include <stdio.h>
-/*
- * main : description start of code
+/**
+ * main - description start of code
  * Display upper and lower case letters
- * return 0 if successful
+ * Return: 0 if successful
  */
 
 int main(void)

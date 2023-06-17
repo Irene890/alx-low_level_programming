@@ -1,7 +1,7 @@
 #include <stdio.h>
-/*
- * main function displays entry of code
- * return displays 0 when successful
+/**
+ * main - function displays entry of code
+ * Return: displays 0 when successful
  * Numbers
  */
 int main(void)
