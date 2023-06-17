@@ -5,7 +5,7 @@
  * main - starting code point
  * Description is to get the last digit
  * Return: 0 when successful
- * ld is the last digit
+ * ld is last digit
  */
 int main(void)
 {
