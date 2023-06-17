@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- *
- *
+ * main function starts entry of code
+ * return 0 if successful
+ * Displays number without using printf
  */
 int main(void)
 {
