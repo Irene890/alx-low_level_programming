@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
 /*
  * main : entry point for code
- * main displays the enrtry point
+ * main description displays the entry point
  */
 /* return : zero if successful */
 int main(void)
