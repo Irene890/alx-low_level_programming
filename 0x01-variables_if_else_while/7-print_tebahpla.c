@@ -2,7 +2,7 @@
 /**
  * main - function entry of code
  * Return: 0 when sucessful
- * displays lower case letters in reverse
+ * displays lower case letters in reverse order
  */
 int main(void)
 {
