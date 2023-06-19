@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
   * main - description beginnig of code, accepts nor arguement
-  * return - zero for successful
+  * Return: zero for successful
   */
 int main(void)
 {
