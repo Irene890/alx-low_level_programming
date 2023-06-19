@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
   * main - displays the C program code
-  * Return: 0 when successful
+  * Return: 1 when successful
   */
 int main(void)
 {
