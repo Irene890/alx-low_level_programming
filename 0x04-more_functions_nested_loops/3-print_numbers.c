@@ -2,8 +2,8 @@
 
  /**
   * print_numbers - function that prints the numbers, from 0 to 9
-  * Return: numbers 0-9
-  * @c: characters
+  * Return: 0 if successful
+  * @c: Numbers 0 - 9
   */
 
 void print_numbers(void)
@@ -12,7 +12,7 @@ void print_numbers(void)
 
 	for (c = '0'; c <= '9'; c++)
 	{
-		_putchar(c);
+		_putchar(c + '0');
 	}
 	_putchar('\n');
 }
