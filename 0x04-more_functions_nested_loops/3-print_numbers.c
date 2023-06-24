@@ -1,10 +1,9 @@
 #include "main.h"
 
- /**
-  * print_numbers - function that prints the numbers, from 0 to 9
-  * Return: 0 if successful
-  * @c: Numbers 0 - 9
-  */
+/**
+ * print_numbers - function that prints the numbers, from 0 to 9
+ * Return: 0 if successful
+ */
 
 void print_numbers(void)
 {
