@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "function_pointers.h"
+
 /**
  * array_iterator - displays array element
  * @array: array
@@ -9,7 +10,7 @@
  */
 void array_iterator(int *array, size_t size, void (*action)(int))
 {
-i	unsigned int i;
+	unsigned int i;
 
 	if (array == NULL || action == NULL)
 		return;
