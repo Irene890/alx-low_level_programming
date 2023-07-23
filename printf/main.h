@@ -7,7 +7,7 @@
 #define BUFF_SIZE 1024
 #define UNUSED(x) (void)(x)
 
-/* Flagss */
+/** Flagss **/
 #define F_MINUS 1
 #define F_HASH 8
 #define F_PLUS 2
