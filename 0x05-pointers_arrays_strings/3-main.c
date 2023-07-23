@@ -8,10 +8,10 @@
 
 int main(void)
 {
-	print_line(0);
-	print_line(2);
-	print_line(10);
-	print_line(-4);
+	char *str;
+
+	str = "I do not fear computers. I fear the lack of them - Isaac Asimov";
+	_puts(str);
 
 	return (0);
 }

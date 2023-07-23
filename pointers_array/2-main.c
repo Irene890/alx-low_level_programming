@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+/**
+ *
+ *
+ */
+int main()
+{
+	int *p;
+
+	printf("Size of pointer: %lu\n",sizeof(p));
+
+	return (0);
+}
+
