@@ -33,8 +33,10 @@ void print_all(const char * const format, ...)
 						str = "(nil)";
 					printf("%s%s", sep, str);
 					break;
-				default:k++;
-					continue;}
+				default:
+					k++;
+					continue;
+			}
 			sep = ", ";
 			k++;
 		}
