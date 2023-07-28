@@ -1,6 +1,7 @@
 #ifndef MAIN_HEADER
 #define MAIN_HEADER
 
+char *argstostr(int ac, char **av);
 int _putchar(char c);
 char *create_array(unsigned int size, char c);
 char *_strdup(char *str);
